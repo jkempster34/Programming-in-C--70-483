@@ -26,7 +26,7 @@ git --version
 1. Clone the project:
 
 ```js
-git clone https://https://github.com/jkempster34/Programming-in-C--70-483/
+git clone https://github.com/jkempster34/Programming-in-C--70-483/
 ```
 
 2. Open Visual Studio 2019.
