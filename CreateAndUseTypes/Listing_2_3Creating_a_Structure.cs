@@ -2,6 +2,16 @@
 
 namespace CreateAndUseTypes
 {
+
+    /*
+     * Structs cannot have parameterless constructors.
+     * The constructor of a struct must intialise all data members of the structure. 
+     * 
+     * Despite this, a struct can be initialized by calling a parameterless constructor, in this case the elements
+     * are set to default values for that type (numeric elements set to zero, strings set to null). 
+     * An example of this is the swarm created below.
+     */
+     
     struct Alien
     {
         public int X;
