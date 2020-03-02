@@ -16,6 +16,18 @@ namespace CreateAndUseTypes
     {
         class Alien
         {
+            // Declare a delegate
+            public delegate void PrintAlienDestroyed();
+
+            //Declare a method with the same signature as the delegate
+            public static void PrintAlienLives()
+            {
+                Console.WriteLine("Alien is destroyed");
+            }
+
+            // Create an instance of the delegate
+            PrintAlienDestroyed printAlienDestroyed = PrintAlienLives;
+
             public int X;
             public int Y;
             public int Lives;
@@ -24,19 +36,22 @@ namespace CreateAndUseTypes
             {
                 Console.WriteLine("RemoveLives called");
                 Lives = Lives - livesToRemove;
-                
-                if(Lives <= 0)
+                if (Lives <= 0)
                 {
                     Lives = 0;
                     X = -1000;
                     Y = -1000;
+                    printAlienDestroyed();
                     return false;
                 }
                 else
                 {
                     return true;
                 }
+
             }
+
+
         }
 
         static void Main(string[] args)
