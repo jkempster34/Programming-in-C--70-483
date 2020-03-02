@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>CreateAndUseTypes.Listing_2_4Creating_an_enum</StartupObject>
+    <StartupObject>CreateAndUseTypes.Listing_2_5Creating_a_reference</StartupObject>
     <ApplicationIcon />
   </PropertyGroup>
 
