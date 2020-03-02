@@ -1,4 +1,4 @@
-# Programming in-C 70-483 Second Edition
+# Programming in C# 70-483 Second Edition
 
 Working through the examples in Exam Ref 70-483 Programming in C# Second Edition by Robert Miles in preparation for the Microsoft 70-483 exam.
 
@@ -6,16 +6,12 @@ Working through the examples in Exam Ref 70-483 Programming in C# Second Edition
 
 ### Prerequisites
 
-- Node.js
-- npm
 - git
 - Visual Studio 2019
 
-To confirm that you have the prerequisites installed, the following terminal commands should return a version number:
+To confirm that you have the prerequisites installed, the following terminal command should return a version number:
 
 ```js
-node --version
-npm --version
 git --version
 ```
 
