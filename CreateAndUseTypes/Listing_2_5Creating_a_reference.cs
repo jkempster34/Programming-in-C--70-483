@@ -1,9 +1,21 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace CreateAndUseTypes
 {
+
+    /*
+     * Value type variables are stored on the stack, an area of memory which is allocated 
+     * and removed as the program enters and leaves blocks. A value type variable created during the
+     * execuation of a black is stored on the local stack frame and then the entire stack frame is 
+     * discarded when the block completes.
+     * 
+     * On the other hand, Reference type variables are allocated memory on a different structure, called the
+     * heap. The heap is managed for an entire application. It is required beause references may be passed 
+     * between method calls as parameters. Objects can only be removed from the heap when garbage collection
+     * determines that there are no references to them.
+     */
+
+
     class Listing_2_5Creating_a_reference
     {
         class Alien
