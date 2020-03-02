@@ -37,6 +37,6 @@ git clone https://github.com/jkempster34/Programming-in-C--70-483/
 
 5. The different projects relate to the chapters of the book. You can see which project is marked as the startup item in the Solution Explorer, as it is listed in a bold typeface. To change the startup project from the Solution Explorer, right-click the desired project and choose **Set as StartUp Project** from the context-sensitive menu that is displayed. You can also choose this menu item from the Project menu.
 
-6. Each example has it own Main method. Right-click the desired C# code file (.cs extension) and choose **Properties** from the menu that is displayed. Select the **Application** tab and choose the the desired example from the **Startup object** drop-down menu.
+6. Each listing has it own Main method. Right-click the project containing the desired listing (listings are C# code files with .cs extension); this should have been set as the startup project as described in step 5. Choose **Properties** from the menu that is displayed. Select the **Application** tab and choose the listing to be run from the **Startup object** drop-down menu.
 
 7. To run the code, on the menu bar, choose **Debug, Start without debugging** or press **Ctrl + F5**
