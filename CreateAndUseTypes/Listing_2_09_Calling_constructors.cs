@@ -10,7 +10,7 @@ namespace CreateAndUseTypes
      * by the call to the first constructor, the actual body of the second constructor is empty.
      */
 
-    class Listing_2_9_Calling_constructors
+    class Listing_2_09_Calling_constructors
     {
         class Alien
         {

@@ -2,7 +2,7 @@
 
 namespace CreateAndUseTypes
 {
-    class Listing_2_2_Immutable_DateTime
+    class Listing_2_02_Immutable_DateTime
     {
 
         /* 

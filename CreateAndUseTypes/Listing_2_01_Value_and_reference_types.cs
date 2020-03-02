@@ -2,7 +2,7 @@
 
 namespace CreateAndUseTypes
 {
-    class Listing_2_1_Value_and_reference_types
+    class Listing_2_01_Value_and_reference_types
     {
 
         /*

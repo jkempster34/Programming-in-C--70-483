@@ -14,7 +14,7 @@ namespace CreateAndUseTypes
      * not be possible to store a value type such as an integer. This is refered to as contraints and there are many others.
      */
 
-    class Listing_2_6_Using_Generic_Types
+    class Listing_2_06_Using_Generic_Types
     {
         class MyStack<T>
         {

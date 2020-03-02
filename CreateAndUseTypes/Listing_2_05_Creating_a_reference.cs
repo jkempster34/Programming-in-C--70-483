@@ -18,7 +18,7 @@ namespace CreateAndUseTypes
      */
 
 
-    class Listing_2_5_Creating_a_reference
+    class Listing_2_05_Creating_a_reference
     {
         class Alien
         {

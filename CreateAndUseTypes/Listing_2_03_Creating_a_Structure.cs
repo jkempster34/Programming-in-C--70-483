@@ -38,7 +38,7 @@ namespace CreateAndUseTypes
         }
     }
 
-    class Listing_2_3_Creating_a_Structure
+    class Listing_2_03_Creating_a_Structure
     {
         static void Main(string[] args)
         {
