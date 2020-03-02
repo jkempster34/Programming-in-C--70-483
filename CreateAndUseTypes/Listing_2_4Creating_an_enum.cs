@@ -14,7 +14,7 @@ namespace CreateAndUseTypes
      * with zero and increase by one following the definition text order. 
      * To get the integer value from an item, you must explicitly convert the item to an int.
      * 
-     * You can assign you own enu values, and the next items will updat eaccordingly.
+     * You can assign you own enum values, and the next items will update accordingly.
      */
 
     class Listing_2_4Creating_an_enum
