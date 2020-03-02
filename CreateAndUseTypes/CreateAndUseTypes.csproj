@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>CreateAndUseTypes.Listing_2_9_Calling_constructors</StartupObject>
+    <StartupObject>CreateAndUseTypes.Listing_2_10_Static_constructors</StartupObject>
     <ApplicationIcon />
   </PropertyGroup>
 
