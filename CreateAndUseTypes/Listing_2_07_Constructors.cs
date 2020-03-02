@@ -4,7 +4,7 @@ namespace CreateAndUseTypes
 {
     class Listing_2_07_Constructors
     {
-        
+
         /*
          * Constructors can be used with value types (structs) or reference types (classes). A
          * constructor has the same name as the class but no return type.
