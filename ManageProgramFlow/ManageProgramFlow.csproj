@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>ManageProgramFlow.Listing_1_2Parallel_ForEach</StartupObject>
+    <StartupObject>ManageProgramFlow.Listing_1_1_Parallel_Invoke</StartupObject>
   </PropertyGroup>
 
 </Project>

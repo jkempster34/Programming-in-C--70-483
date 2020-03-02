@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace ManageProgramFlow
 {
-    class Listing_1_1Parallel_Invoke
+    class Listing_1_1_Parallel_Invoke
     {
 
         /*

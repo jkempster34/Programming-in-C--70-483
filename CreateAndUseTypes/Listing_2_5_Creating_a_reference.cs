@@ -7,7 +7,9 @@ namespace CreateAndUseTypes
      * Value type variables are stored on the stack, an area of memory which is allocated 
      * and removed as the program enters and leaves blocks. A value type variable created during the
      * execution of a block is stored on the local stack frame and then the entire stack frame is 
-     * discarded when the block completes (value types have scope).
+     * discarded when the block completes (value types have scope). In pther words, in the stack, data is 
+     * destroyed when the memory block currently being operated on is terminated. Upon termination, the 
+     * block and all its associated variables are deleted.
      * 
      * On the other hand, Reference type variables are allocated memory on a different structure, called the
      * heap. The heap is managed for an entire application. It is required because references may be passed 
@@ -16,7 +18,7 @@ namespace CreateAndUseTypes
      */
 
 
-    class Listing_2_5Creating_a_reference
+    class Listing_2_5_Creating_a_reference
     {
         class Alien
         {

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CreateAndUseTypes
 {
-    class Listing_2_1Value_and_reference_types
+    class Listing_2_1_Value_and_reference_types
     {
 
         /*

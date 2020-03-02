@@ -17,7 +17,7 @@ namespace CreateAndUseTypes
      * You can assign you own enum values, and the next items will update accordingly.
      */
 
-    class Listing_2_4Creating_an_enum
+    class Listing_2_4_Creating_an_enum
     {
         enum AlienState
         {

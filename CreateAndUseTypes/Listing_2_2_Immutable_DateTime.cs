@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CreateAndUseTypes
 {
-    class Listing_2_2Immutable_DateTime
+    class Listing_2_2_Immutable_DateTime
     {
 
         /* 

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ManageProgramFlow
 {
-    class Listing_1_2Parallel_ForEach
+    class Listing_1_2_Parallel_ForEach
     {
         static void WorkOnItem(object item)
         {
