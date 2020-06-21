@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>CreateAndUseTypes.Listing_2_01_Value_and_reference_types</StartupObject>
+    <StartupObject>CreateAndUseTypes.Skill_2_2_Consume_Types.Listing_2_23_Type_conversion</StartupObject>
     <ApplicationIcon />
   </PropertyGroup>
 
